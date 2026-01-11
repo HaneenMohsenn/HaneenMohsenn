@@ -3,10 +3,6 @@
 
 #  Hello, I'm Haneen|**Front-End Developer with Data Analysis Skills**.
 
----
- 
-
-## Haneen | Front-End Developer & Data Analysis Enthusiast
 
 I'm passionate about building modern, responsive web applications and exploring data to uncover insights.  
 Combining skills in front-end development and data analysis, I create experiences that are both interactive and data-driven.
