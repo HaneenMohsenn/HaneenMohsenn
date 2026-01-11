@@ -17,7 +17,7 @@ Hello! I am **Haneen**, a passionate professional bridging the gap between **Fro
 
 ## 🛠 Technical Skills
 
-### 🌐 Front-End Development
+###  Front-End Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
@@ -37,4 +37,4 @@ Hello! I am **Haneen**, a passionate professional bridging the gap between **Fro
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HaneenMohsenn)
 
 ---
-*📊 Currently improving: Advanced React patterns and complex data visualization techniques*.
+*Currently improving: Advanced React patterns and complex data visualization techniques*.
