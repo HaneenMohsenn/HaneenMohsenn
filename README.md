@@ -1,13 +1,10 @@
 
 ![Dashboard Illustration](Images/Haneens_GitHub.png.jpg)
 
-# 👋 Hi, I'm Haneen!
+#  Hello, I'm Haneen|**Front-End Developer with Data Analysis Skills**.
 
 ---
  
-I'm a **Front-End Developer with Data Analysis Skills**.
-
----
 
 ## Haneen | Front-End Developer & Data Analysis Enthusiast
 
