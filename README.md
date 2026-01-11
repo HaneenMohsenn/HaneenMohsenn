@@ -1,49 +1,31 @@
-.#  Hi, I'm Haneen
+# 👋 Hi, I'm Haneen!
 
 Welcome to my GitHub profile!  
 I'm a **Front-End Developer with Data Analysis Skills**.
 
 ---
 
-##  About Me
-I specialize in building clean, responsive, and user-friendly web applications using modern front-end technologies.  
-Alongside coding, I enjoy exploring data, finding insights, and presenting them in meaningful ways.
+![Dashboard Illustration](./A_digital_screenshot_of_Haneen's_GitHub_profile_RE.png)
 
 ---
 
-## Skills
+## Haneen | Front-End Developer & Data Analysis Enthusiast
 
-###  Front-End Development
-- HTML5, CSS3  
-- JavaScript (ES6+)  
-- React  
-- Responsive & Interactive UI
-
-###  Data Analysis
-- Python  
-- Pandas & NumPy  
-- Data Cleaning & Visualization  
-- Basic SQL
+I'm passionate about building modern, responsive web applications and exploring data to uncover insights.  
+Combining skills in front-end development and data analysis, I create experiences that are both interactive and data-driven.
 
 ---
 
-##  What I Build
-- Modern and scalable front-end web apps
-- UI that solves real user problems
-- Data insights to support better decisions
+## 🛠️ Technical Skills
+
+- **Front-End Development:** HTML5, CSS3, JavaScript (ES6+), React  
+- **Data Analysis:** Python, Pandas, NumPy, Basic SQL  
+- **Tools & Libraries:** React, Chart.js, Pandas, Jupyter Notebook  
+- **Currently Improving:** Advanced React patterns and data visualization techniques
 
 ---
 
-##  Currently Improving
-- Advanced React patterns and libraries
-- Data visualization techniques
-- Building production-level projects
+💼 Feel free to explore my projects and get in touch! 😊
 
----
-
-##  Contact Me
-- GitHub: https://github.com/HaneenMohsenn  
-- LinkedIn: add your LinkedIn profile  
-- Email: your email here
-
-Feel free to explore my repositories and reach out! 
+- GitHub: [https://github.com/HaneenMohsenn](https://github.com/HaneenMohsenn)  
+- LinkedIn: add your LinkedIn profile
