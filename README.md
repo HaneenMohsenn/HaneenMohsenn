@@ -5,7 +5,7 @@ I'm a **Front-End Developer with Data Analysis Skills**.
 
 ---
 
-![Dashboard Illustration](./A_digital_screenshot_of_Haneen's_GitHub_profile_RE.png)
+![Dashboard Illustration](images/Haneens_GitHub.png)
 
 ---
 
