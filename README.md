@@ -1,60 +1,49 @@
-<h1 align="center">Hi, I'm Haneen 👋</h1>
+.# 👋 Hi, I'm Haneen
 
-<p align="center">
-  Front-End Developer with Data Analysis Skills
-</p>
-
----
-
-## 👩‍💻 Professional Summary
-Front-End Developer specializing in building clean, responsive, and user-focused web applications.  
-I also have a strong interest in Data Analysis, using data to support better decisions and improve user experiences.
+Welcome to my GitHub profile!  
+I'm a **Front-End Developer with Data Analysis Skills**.
 
 ---
 
-## 🛠️ Technical Expertise
+## 👩‍💻 About Me
+I specialize in building clean, responsive, and user-friendly web applications using modern front-end technologies.  
+Alongside coding, I enjoy exploring data, finding insights, and presenting them in meaningful ways.
 
-### Front-End Development
+---
+
+## 🛠️ Skills
+
+### 💻 Front-End Development
 - HTML5, CSS3  
 - JavaScript (ES6+)  
 - React  
-- Responsive Design & UI Best Practices  
+- Responsive & Interactive UI
 
-### Data Analysis
+### 📊 Data Analysis
 - Python  
 - Pandas & NumPy  
-- Data Cleaning & Exploration  
-- Basic SQL  
+- Data Cleaning & Visualization  
+- Basic SQL
 
 ---
 
-## 💼 What I Work On
-- Developing modern, scalable front-end applications  
-- Converting UI/UX designs into high-quality, interactive interfaces  
-- Analyzing data to gain insights and support product improvements  
+## 🚀 What I Build
+- Modern and scalable front-end web apps
+- UI that solves real user problems
+- Data insights to support better decisions
 
 ---
 
 ## 🌱 Currently Improving
-- Advanced React concepts  
-- Data visualization and analytical techniques  
+- Advanced React patterns and libraries
+- Data visualization techniques
+- Building production-level projects
 
 ---
 
-## 📌 Core Strengths
-- Clean and maintainable code  
-- Strong attention to detail  
-- Data-driven mindset  
-- Continuous learning and self-improvement  
-
----
-
-## 📫 Contact
+## 📫 Contact Me
 - GitHub: https://github.com/HaneenMohsenn  
-- LinkedIn: add your LinkedIn profile
+- LinkedIn: add your LinkedIn profile  
+- Email: your email here
 
----
-
-<p align="center">
-  Professional • Front-End Focused • Data-Aware
-</p>
+Feel free to explore my repositories and reach out! 😊
