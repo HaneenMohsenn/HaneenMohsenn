@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Haneen!
-
-Welcome to my GitHub profile!  
-I'm a **Front-End Developer with Data Analysis Skills**.
-
----
 
 ![Dashboard Illustration](Images/Haneens_GitHub.png.jpg)
+
+# 👋 Hi, I'm Haneen!
+
+---
+ 
+I'm a **Front-End Developer with Data Analysis Skills**.
 
 ---
 
