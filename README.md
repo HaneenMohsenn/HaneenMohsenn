@@ -1,15 +1,17 @@
-# 👩‍💻 Haneen Mohsen | Front-End Developer & Data Analyst
+![Dashboard Illustration](Images/Haneens_GitHub.png.jpg)
+
+#  Haneen Mohsen | Front-End Developer & Data Analyst
 
 ### "Merging the art of UI development with the science of data insights"
 
 ---
 
-## 👋 About Me
-Hello! I am **Haneen**, a passionate professional bridging the gap between **Front-End Development** and **Data Analysis**. I build modern, responsive web applications and dive deep into data to uncover meaningful insights that drive decisions.
+##  About Me
+Hello! I am **Haneen**, a passionate professional bridging the gap between **Front-End Development** and **Data Analysis**. I build modern, responsive web applications and dive deep into data to uncover meaningful insights.
 
-- 🎨 **Front-End:** Crafting interactive and user-friendly interfaces using React.
-- 📊 **Data Science:** Analyzing complex datasets to tell a story through numbers.
-- 🚀 **Goal:** Creating data-driven web experiences that are both beautiful and functional.
+-  **Front-End:** Crafting interactive and user-friendly interfaces using React.
+-  **Data Science:** Analyzing complex datasets to tell a story through numbers.
+-  **Goal:** Creating data-driven web experiences that are both beautiful and functional.
 
 ---
 
@@ -21,7 +23,7 @@ Hello! I am **Haneen**, a passionate professional bridging the gap between **Fro
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### 📊 Data Analysis & Visualization
+###  Data Analysis & Visualization
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
@@ -30,13 +32,8 @@ Hello! I am **Haneen**, a passionate professional bridging the gap between **Fro
 
 ---
 
-## 📈 Featured Dashboard
-![Dashboard Illustration](Images/Haneens_GitHub.png.jpg)
-
----
-
 ## 🔗 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](رابط_لينكد_إن_هنا)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](ضعى_رابط_لينكدإن_هنا)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HaneenMohsenn)
 
 ---
